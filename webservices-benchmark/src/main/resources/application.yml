@@ -1,0 +1,6 @@
+api:
+  path:
+    base: /api/v1
+    rest: /rest
+    health: /health
+    users: /users
