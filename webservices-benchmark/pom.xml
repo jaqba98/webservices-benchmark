@@ -12,7 +12,7 @@
 	<artifactId>webservices-benchmark</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webservices-benchmark</name>
-	<description>Master’s thesis project comparing different Web Services implementations, focusing on performance, data transfer efficiency, and resource utilization through benchmark testing. </description>
+	<description>Master’s thesis project comparing different Web Services implementations, focusing on performance, data transfer efficiency, and resource utilization through benchmark testing.</description>
 	<url/>
 	<licenses>
 		<license/>
